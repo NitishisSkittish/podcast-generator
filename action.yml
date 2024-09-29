@@ -9,7 +9,7 @@ branding:
   color: "red"
 inputs:
   email:
-    description: The committer's email address
+    description: The commiter's email address
     required: true
     default: ${{ github.actor }}@localhost
   name:
