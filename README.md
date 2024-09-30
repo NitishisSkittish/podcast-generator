@@ -1,2 +1,2 @@
 # podcast-generator
-Based of GitHub Linkedin Learning Course
+Based off of GitHub Linkedin Learning Course
